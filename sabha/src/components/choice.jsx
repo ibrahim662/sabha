@@ -43,6 +43,7 @@ function Choice() {
               <InfinitTasbih />
             </>
           )}
+          <p style={{fontSize:12, textAlign: "center"}}>ملاحظة : يمكنك إستخدام التطبيق بدون أنترنت</p>
         </fieldset>
       </div>
       <div className="dev">
