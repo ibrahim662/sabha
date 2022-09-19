@@ -16,7 +16,7 @@ const increment = () => {
       text={count}
       maxValue={count}
     />
-    <Button variant="outlined" onClick={increment} >إبدأ التسبيح</Button>
+    <Button variant="outlined" onClick={increment} >سبح</Button>
   </div>
   )
 }

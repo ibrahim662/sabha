@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap');
 .choice {
     margin: 0 auto;
-    width: 50%;
+    width: 80%;
     animation-name: choice;
   animation-duration: 10s;
   font-family: 'Noto Kufi Arabic', sans-serif;

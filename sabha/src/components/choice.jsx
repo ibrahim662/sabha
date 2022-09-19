@@ -18,6 +18,7 @@ function Choice() {
   return (
     <>
       <div className="choice">
+        <h2 style={{textAlign: "center"}}>مرحبا بك في تطبيق سَبِّح</h2>
         <fieldset>
           <legend> هل تريد وضع رقم معين للتسبيح أم لا ؟</legend>
           <FormControl>

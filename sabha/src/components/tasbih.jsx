@@ -45,7 +45,7 @@ function Tasbih() {
           />
         </div>
         <Button variant="outlined" onClick={increment}>
-          إبدأ التسبيح
+          سبح
         </Button>
       </div>
     </>
