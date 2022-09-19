@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic&display=swap');
+
+.tasbih-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.input{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.round{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
+    font-family: 'Noto Kufi Arabic', sans-serif;
+}
+
+.rounds{
+    margin-bottom: 30px;
+}
